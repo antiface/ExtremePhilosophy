@@ -1,4 +1,7 @@
 ### Extreme Philosophy
+* Extreme Philosophy is a form of design philosophy and information philosophy;
+* In essence, it is the philosophy of extremes;
+* In analogy to "flash fiction", extreme philosophy can be called "flash philosophy";
 
 ## [BACK TO INDEX OF REPOSITORIES] (https://github.com/antiface/Index)
 
