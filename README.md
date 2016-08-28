@@ -2,6 +2,7 @@
 * Extreme Philosophy is a form of design philosophy and information philosophy;
 * In essence, it is the philosophy of extremes;
 * In analogy to "flash fiction", extreme philosophy can be called "flash philosophy";
+* The basic idea, though, is to move away from the extremities, slowly panning through the spectrum of various theoretical scan-paths, away from "in extremis" ("in the farthest reaches") more towards "in media res" ("into the middle of things");
 
 ## [BACK TO INDEX OF REPOSITORIES] (https://github.com/antiface/Index)
 
