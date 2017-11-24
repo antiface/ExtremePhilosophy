@@ -9,7 +9,6 @@
 * Both the future of positive-feedback-induced, exponential abstract formalization is grim; all subtleties are lost, eternal sameness, lukewarmness, is the norm; it is the folly of infinite progress; it erases all true - or useful - differentiation, is its own derivative; and it defies any and all real Integration;
 * If all is in constant Movement, Universe is the perpetuum mobile; but the mean is almost always Zero; (Enter The Anti-Zero, All Mediation is Non-Zero Sum, And Hence The Problem; Only The Mean is True To Perpetual Unmediated Intermediacy of Universe);
 
-## [BACK TO INDEX OF REPOSITORIES] (https://github.com/antiface/Index)
+## [BACK TO INDEX OF REPOSITORIES](https://github.com/antiface/Index)
 
-[A.G. (c) 2016. ![A.G. (c) 2016. All Rights Reserved]
-(https://historiotheque.files.wordpress.com/2016/11/ag_signature_official_2015_50px_cropped.jpg) All Rights Reserved.](http://alexgagnon.com)
+[A.G. (c) 2016. ![A.G. (c) 2016. All Rights Reserved](https://historiotheque.files.wordpress.com/2016/11/ag_signature_official_2015_50px_cropped.jpg) All Rights Reserved.](http://alexgagnon.com)
